@@ -1,0 +1,88 @@
+.mybasket {
+    margin-top: 45px;
+    font-weight: bold 600;
+    font-size: 50px;
+}
+
+.toppage {
+    position: absolute;
+    height: 412px;
+    width: 1206px;
+    left: 40px;
+    top: 200px;
+    text-decoration: underline;
+}
+ 
+.img-corona {
+   width: 171px;
+    height: 173px;
+    border-radius: 5px;
+    float: left;
+    margin-left: 120px;
+    margin-right: 0px;
+    margin-top: 40px;
+}
+
+
+.card-right {
+	float: right;
+    width: 1000px;
+    margin-top: 13px;
+}
+
+
+.price {
+    margin-top: 17px;
+    margin-left: -40px;
+    margin-right: 0px;
+    height: 0px;
+}
+
+
+.coronaextra {
+    margin-right: 140px;
+}
+
+.price img{
+   width: 60px;
+   margin-left: 30px;
+   margin-top: 0px;
+}
+
+
+
+.total {
+    margin-right: 40px;
+    margin-top: 120px;
+    float: right
+}
+
+.couponcode{
+  width: 20%;
+  padding: 12px 20px;
+  left: 40px;
+  box-sizing: border-box;
+  border: 2px #343A40;
+  border-radius: 4px;
+  background-color: #E5E5E5;
+  color: #343A40;
+  font-weight: bold;
+  margin-left: 120px;
+  margin-top: 15px;
+  margin-right: 150px;
+}
+
+#checkoutbutton{
+   float: right;
+   margin-right: 40px;
+   margin-top: -55px;
+}
+
+.line{
+    color: #C4C4C4;
+}
+
+
+
+
+

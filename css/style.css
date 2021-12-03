@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&family=Nunito+Sans:wght@200&display=swap');
+
+@import url("components/banner.css");
+@import url("components/header.css");
+@import url("components/navigation.css");
+@import url("components/footer.css");
+@import url("components/homepagecard.css");
+@import url("components/button.css");
+@import url("components/profil.css");
+@import url("components/shopbycolor.css");
+@import url("components/shopbybrewery.css");
+@import url("components/checkout.css");
+@import url("components/productdescription.css");
+@import url("components/mybasket.css");
+@import url("components/logincard.css");
+
+
+body {
+	font-family: 'nunito sans' , sans-serif;
+	font size: 18px;
+	margin: 0px;
+	padding: 165px 0px;
+}
+ 
+h1, h2, h3 {
+	font-family: 'libre franklin', serif;
+	font-weight: bold;
+	margin: 30px;
+	color: #343A40;
+}
+
+h1 {
+	position: center;
+	    margin-top: 40px;
+    	font-size: 50px;
+    	font-weight: bold 600;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1  {
+	text-align: center;
+}
+
+table {
+	text-align: center;
+	width: 100%;
+}
+
+.logo {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}

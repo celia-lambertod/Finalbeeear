@@ -1,0 +1,48 @@
+.homepagecards {
+	display: flex;
+	margin: 20px auto;
+	flex-basis: 350px;
+	width: 1202px;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin-top: 70px;
+}
+
+.homepagecard {
+	width: 	551px;
+	height: 227px ;
+	background-size: cover;
+	background-position: center;
+	border-radius: 5px;
+	display: flex;
+	position: relative;
+	justify-content: center;
+	align-items: center;
+}
+
+.homepagecard img {
+	width: 450px;
+	height: 227px;
+	border-radius: 6px;
+	margin-top: 80px;
+	align-items: center;
+	position: relative;
+}
+
+.homepagecard a {
+  	background-color: #7952B3;
+	color: white;
+	font-size: 20px;
+	border-radius: 6px;
+	width: 150px;
+	padding: 20px;
+	text-align: center;
+}
+
+#sales {
+	background-image: url(../../images/sales.jpeg);
+}
+
+#bestsellers{
+	background-image: url(../../images/bestsellers.jpeg);
+}

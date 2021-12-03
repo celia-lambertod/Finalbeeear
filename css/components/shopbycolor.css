@@ -1,0 +1,93 @@
+.cardsbeers {
+	position: relative;
+	width: 1206px;
+	margin: 0px auto;
+	display: flex;
+	flex-wrap: wrap;
+	flex-basis: 250px;
+	flex-grow: 1;
+	justify-content: space-between;
+}
+
+.cardbeer {
+	position: relative;
+	width: 318px;
+	height: 370px;
+	margin: 0px auto;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+}
+
+.cardbeer img {
+	width: 318px;
+	height: 318px;
+	border-radius: 5px;
+}
+
+.cardbeer p  {
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+/*
+.whitebeer {
+	position: absolute;
+	width: 318px;
+	height: 350px;
+	left: 450px;
+	top: 0px;
+}
+
+.brownbeer {
+	position: absolute;
+	width: 318px;
+	height: 350px;
+	right: 0px;
+	top: 0px;
+}
+
+.shopbycolorcard1 {
+	position: absolute;
+	width: 1206px;
+	height: 370px;
+	left: 140px;
+	top: 800px;
+}
+
+.shopbycolorcard1 img {
+	width: 280px;
+	height: 280px;
+	border-radius: 5px;
+}
+
+.blondbeer1 {
+	position: absolute;
+	width: 318px;
+	height: 370px;
+	left: 0px;
+	top: 0px;
+}
+
+.whitebeer1 {
+	position: absolute;
+	width: 318px;
+	height: 350px;
+	left: 450px;
+	top: 0px;
+}
+
+.brownbeer1 {
+	position: absolute;
+	width: 318px;
+	height: 350px;
+	right: 0px;
+	top: 0px;
+}
+
+.cardbear h1 {
+	font-weight: bold 600;
+	font-size: 50px;
+}
+*/

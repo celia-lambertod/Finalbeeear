@@ -1,0 +1,46 @@
+.banner { 
+	color: white;
+	padding: 170px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner a {
+	background-color: #E1E8EB;
+	opacity: 80%;
+	color: #343A40;
+	font-size: 40px;
+	border-radius: 6px;
+	text-shadow: 0 0 5px #FFC107;
+	font-weight: bolder;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.banner img {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	text-align:center;
+	margin: auto;
+    display:flex;
+    text-shadow: 0 0 5px black;
+}
+
+.banner h1 {
+	font-size: 50px;
+	font-weight: bold;
+	color: #E1E8EB;
+	text-align: center;
+	text-shadow: 0 0 5px black;
+}
+
+#homepage {
+	background-image: url(../../images/banner.jpeg);
+
+	}
+
+#aboutus {
+	background-image: url(../../images/banneraboutus.jpeg);
+}

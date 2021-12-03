@@ -1,0 +1,52 @@
+.checkout {
+      position: center;
+	    margin-top: 40px;
+    	font-size: 50px;
+    	font-weight: bold 600;
+}
+
+.cardforms{
+  display: flex;
+  position: center;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  border-radius: 0px;
+  margin: 0px auto;
+  flex-basis: 350px;
+  width: 90%;
+  height: 80%;
+  margin: 10px;
+  padding: 10px;
+}
+
+.forms{
+  width: 30%;
+  position: center;
+  padding: 13px;
+  margin: 10px;
+  box-sizing: border-box;
+  border: 2px #E5E5E5;
+  border-radius: 4px;
+  background-color: #E5E5E5;
+  color: #343A40;
+  font-weight: bold;
+}
+
+.forms img{
+  width: 20%;
+  height: 20%;
+  border-radius: 4px;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #343A40;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+input[type=radio] {
+  vertical-align: middle
+}

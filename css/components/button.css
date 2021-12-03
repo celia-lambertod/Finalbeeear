@@ -1,0 +1,51 @@
+.btn-purple {
+	background-color: #7952B3;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'libre franklin', serif;
+	margin: 10px;
+}
+
+.btn-purple:hover {
+	color:#FFC107 ;
+}
+
+.btn-yellow {
+	background-color: #FFC107;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #343A40;
+	font-weight: bold;
+	font-family: 'libre franklin', serif;
+	margin: 10px;
+}
+
+.btn-grey {
+	background-color: #E1E8EB;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #343A40;
+	font-weight: bold;
+	font-family: 'libre franklin', serif;
+	margin: 10px;
+}
+
+.search {
+	width: 16px;
+	height: 16px;
+	margin-right: 10px;
+}
+
+.btn {
+	background-color: #7952B3;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'libre franklin', serif;
+	margin: 10px;
+	width: 490px;
+	align-items: center;
+}
